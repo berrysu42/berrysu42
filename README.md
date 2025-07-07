@@ -1,10 +1,10 @@
 
 
 
-[![MasterHead]([https://www.freepik.com/free-photos-vectors/cyber-face](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcyber-face&psig=AOvVaw1ZtEGxwrPIMmUQspBNEeTc&ust=1751997779193000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPC5wsGqq44DFQAAAAAdAAAAABAE)
+[![MasterHead](https://www.freepik.com/free-ai-image/cybersecurity-concept-illustration_382535071.htm#fromView=keyword&page=1&position=2&uuid=87935704-9b19-401f-84b5-0a7d28af5121&query=Cyber+Face)
 
 
-<h1 align="center">Hi 👋, I'm Berika Şule Güvenç</h1>
+>Hi 👋, I'm Berika Şule Güvenç</h1>
 ## 💻 Hakkımda
 Ben yeni mezun bir **Bilgisayar Mühendisiyim**.  
 **Görüntü işleme**, **veritabanı yönetimi**, **siber güvenlik** ve **masaüstü uygulama geliştirme** konularında çalışıyorum.  
