@@ -1,6 +1,11 @@
-# 👋 Merhaba! Ben Berika Şule GÜVENÇ
 
-## 💻 Hakkımda
+
+
+[![MasterHead]([https://www.freepik.com/free-photos-vectors/cyber-face](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcyber-face&psig=AOvVaw1ZtEGxwrPIMmUQspBNEeTc&ust=1751997779193000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPC5wsGqq44DFQAAAAAdAAAAABAE))
+
+
+<h1 align="center">Hi 👋, I'm Berika Şule Güvenç</h1>
+<h3 align="center">## 💻 Hakkımda
 Ben yeni mezun bir **Bilgisayar Mühendisiyim**.  
 **Görüntü işleme**, **veritabanı yönetimi**, **siber güvenlik** ve **masaüstü uygulama geliştirme** konularında çalışıyorum.  
 Projelerimde **Python**, **C#**, **C**, **Java** ve SQL teknolojilerini bir araya getirerek gerçek dünya problemlerine çözümler üretiyorum.
@@ -15,12 +20,8 @@ Projelerimde **Python**, **C#**, **C**, **Java** ve SQL teknolojilerini bir aray
 - 🔐 **Siber Güvenlik:** Hashing, yetkilendirme, loglama.
 - ☁️ Temel bulut teknolojileri (isteğe bağlı geliştirme).
 
+</h3>
 ---
-[![MasterHead]([https://www.freepik.com/free-photos-vectors/cyber-face](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcyber-face&psig=AOvVaw1ZtEGxwrPIMmUQspBNEeTc&ust=1751997779193000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPC5wsGqq44DFQAAAAAdAAAAABAE))
-
-
-<h1 align="center">Hi 👋, I'm Berika Şule Güvenç</h1>
-<h3 align="center">Yeni mezun bir Bilgisayar Mühendisiyim.Eğitim sürecimde, görüntü işleme, veritabanı yönetimi, siber güvenlik ve masaüstü uygulama geliştirme alanlarında uygulamalı projeler geliştirdim.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
