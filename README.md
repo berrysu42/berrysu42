@@ -1,10 +1,10 @@
 
 
 
-[![MasterHead](https://www.google.com/imgres?q=Cyber%20Security%20ve%20Face%20recognition%20kapak%20foto%C4%9Fraf%C4%B1&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Ffacial-recognition-collage-concept_23-2150038886.jpg%3Fsemt%3Dais_hybrid%26w%3D740&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Ffacial-recognition-cybersecurity&docid=aY7G1bDzel9k9M&tbnid=3V4_6pDWKMpbqM&vet=12ahUKEwi1yPW6qquOAxWPSvEDHVmIOuMQM3oFCIQBEAA..i&w=740&h=416&hcb=2&itg=1&ved=2ahUKEwi1yPW6qquOAxWPSvEDHVmIOuMQM3oFCIQBEAA)
+[MasterHead](https://www.google.com/imgres?q=Cyber%20Security%20ve%20Face%20recognition%20kapak%20foto%C4%9Fraf%C4%B1&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Ffacial-recognition-collage-concept_23-2150038886.jpg%3Fsemt%3Dais_hybrid%26w%3D740&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Ffacial-recognition-cybersecurity&docid=aY7G1bDzel9k9M&tbnid=3V4_6pDWKMpbqM&vet=12ahUKEwi1yPW6qquOAxWPSvEDHVmIOuMQM3oFCIQBEAA..i&w=740&h=416&hcb=2&itg=1&ved=2ahUKEwi1yPW6qquOAxWPSvEDHVmIOuMQM3oFCIQBEAA)
 
 
-#+Hi 👋, I'm Berika Şule Güvenç</h1>
+#Hi 👋, I'm Berika Şule Güvenç</h1>
 ## 💻 Hakkımda
 Ben yeni mezun bir **Bilgisayar Mühendisiyim**.  
 **Görüntü işleme**, **veritabanı yönetimi**, **siber güvenlik** ve **masaüstü uygulama geliştirme** konularında çalışıyorum.  
