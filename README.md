@@ -38,7 +38,7 @@ Projelerimde **Python**, **C#**, **C**, **Java** ve SQL teknolojilerini bir aray
 ---
 
 ## 📫 İletişim
-- 📧 E-posta: berika@example.com
+- 📧 E-posta: berikaguvenc@gmail.com
 - 🔗 [https://www.linkedin.com/in/berika-g%C3%BCven%C3%A7/](#)
 - ⭐ GitHub: [github.com/berika](#)
 
