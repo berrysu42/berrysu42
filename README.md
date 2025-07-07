@@ -1,5 +1,8 @@
 
-(![Image](https://github.com/user-attachments/assets/2d68db6d-db6f-4a68-b189-e8dc3c96a872)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c61971da-bb45-41a3-9041-fe782d230a09" style="width:63%; max-width:4500px;">
+</p>
+
 
 
 <h1 align="center"> Hi 👋, I'm Berika Şule Güvenç </h1>
