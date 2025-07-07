@@ -44,5 +44,7 @@ Projelerimde **Python**, **C#**, **C**, **Java** ve SQL teknolojilerini bir aray
 
 ---
 
-**✨ Yeni teknolojiler öğrenmeye ve üretmeye devam ediyorum!**
+## 📌 Öne Çıkanlar
+✨ Yeni teknolojileri denemeye, proje geliştirmeye ve paylaşmaya devam ediyorum!  
+Repolarımı keşfetmeyi ve yıldız bırakmayı unutmayın ⭐
 
