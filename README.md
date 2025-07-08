@@ -54,8 +54,7 @@ Projelerimde **Python**, **C#**, **C**, **Java** ve SQL teknolojilerini bir aray
 
 - **🔑 Kapı Geçiş Kontrol Sistemi(SmartFace-Checkin-System)**  
   Yüz tanıma + SQL veritabanı + hashing + yetki kontrolüyle güvenli geçiş sistemi.  
-  [[GitHub Repo Linki](https://github.com/berrysu42/SmartFace-Checkin-System)](#)
-
+  [[GitHub Repo Linki](https://github.com/berrysu42/SmartFace-Checkin-System)]
 - **💻 Masaüstü Uygulamalar (C#)**  
   .NET Framework kullanarak geliştirilmiş çeşitli Windows Forms projeleri (örneğin: stok takibi, gelir-gider takibi).  
   [GitHub Repo Linki](#)
