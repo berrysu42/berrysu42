@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center"> Hi 👋, I'm Berika Şule Güvenç </h1>
+<h1 align="center"> Selam 👋, I'm Berika Şule Güvenç </h1>
 
 ## 💻 Hakkımda
 Ben yeni mezun bir **Bilgisayar Mühendisiyim**.  
